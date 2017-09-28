@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\winto\onedrive\documents\visual studio 2015\projects\stacktemplatelab\stacktemplatelab\stack.h(159): warning C4101: 'check2': unreferenced local variable
+  c:\users\winto\onedrive\documents\visual studio 2015\projects\stacktemplatelab\stacktemplatelab\stack.h(154): note: while compiling class template member function 'std::string Stack<char>::postfixToIn(std::string &)'
+  c:\users\winto\onedrive\documents\visual studio 2015\projects\stacktemplatelab\stacktemplatelab\main.cpp(31): note: see reference to function template instantiation 'std::string Stack<char>::postfixToIn(std::string &)' being compiled
+  c:\users\winto\onedrive\documents\visual studio 2015\projects\stacktemplatelab\stacktemplatelab\main.cpp(16): note: see reference to class template instantiation 'Stack<char>' being compiled
+c:\users\winto\onedrive\documents\visual studio 2015\projects\stacktemplatelab\stacktemplatelab\stack.h(159): warning C4101: 'check1': unreferenced local variable
+  StackTemplateLab.vcxproj -> c:\users\winto\onedrive\documents\visual studio 2015\Projects\StackTemplateLab\Debug\StackTemplateLab.exe
+  StackTemplateLab.vcxproj -> c:\users\winto\onedrive\documents\visual studio 2015\Projects\StackTemplateLab\Debug\StackTemplateLab.pdb (Full PDB)

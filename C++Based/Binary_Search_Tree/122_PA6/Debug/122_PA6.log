@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\winto\onedrive\documents\visual studio 2015\projects\122_pa6\122_pa6\main.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  BSTNode.cpp
+  BST.cpp
+  Generating Code...
+  122_PA6.vcxproj -> C:\Users\winto\OneDrive\Documents\Visual Studio 2015\Projects\122_PA6\Debug\122_PA6.exe
+  122_PA6.vcxproj -> C:\Users\winto\OneDrive\Documents\Visual Studio 2015\Projects\122_PA6\Debug\122_PA6.pdb (Partial PDB)
