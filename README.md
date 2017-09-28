@@ -1,2 +1,2 @@
 # Data-Structures
-Repo containing various Data Structures that I have coded myself
+All of my best implementations of common Data Structues that I have learned thus far in my collegiate career will be stored in this repository.  As of September 2017, I am currently enrolled in Computer Science 223 at Washington State University, which goes over Advanced Data Structures, so as the semester goes by, I will continue adding my most efficient implementation of well known Data Structures, which will include Hash Tables, Dictionaries, and other Graphs.  This repo includes implementations that I have coded in both Java and C++.
